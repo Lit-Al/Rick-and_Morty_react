@@ -25,7 +25,7 @@ function Episodes() {
   const [searchQuery, setSearchQuery] = useState('')
 
   const searchedCards = useMemo(() => {
-    return cards.filter(card => card.name.toLowerCase().includes(searchQuery))
+    return cards.filter(card => card.name.toLowerCase().includes(searchQuery.toLowerCase()))
   }, [searchQuery, cards])
 
   return (
