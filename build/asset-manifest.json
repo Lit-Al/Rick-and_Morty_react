@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Rick-and_Morty_react/static/css/main.db1821ec.css",
+    "main.js": "/Rick-and_Morty_react/static/js/main.5af39b16.js",
+    "static/media/characters.png": "/Rick-and_Morty_react/static/media/characters.5d713b1e7be9cb53079f.png",
+    "static/media/locations.png": "/Rick-and_Morty_react/static/media/locations.0cce284af64f41b538da.png",
+    "static/media/episodes.png": "/Rick-and_Morty_react/static/media/episodes.038581bec8892ceed1e8.png",
+    "index.html": "/Rick-and_Morty_react/index.html",
+    "main.db1821ec.css.map": "/Rick-and_Morty_react/static/css/main.db1821ec.css.map",
+    "main.5af39b16.js.map": "/Rick-and_Morty_react/static/js/main.5af39b16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1821ec.css",
+    "static/js/main.5af39b16.js"
+  ]
+}
